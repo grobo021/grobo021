@@ -10,5 +10,6 @@ About Me:
 - 📫 Social Media: 
   - Email: [rishabarora2008@gmail.com](rishabarora2008@gmail.com)
   - YouTube: [Techno029](https://www.youtube.com/channel/UCjo4sZ-G8ExZpGATmUrKKkA)
+  - Portfolio (Under Construction): [www.rishabarora.com](https://rishabarora.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ¯\\\_(ツ)_/¯
