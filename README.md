@@ -11,7 +11,7 @@ About Me:
   - Email: [rishabarora2008@gmail.com](rishabarora2008@gmail.com)
   - YouTube: [Techno029](https://www.youtube.com/channel/UCjo4sZ-G8ExZpGATmUrKKkA)
   - Twitter: [@Techno021](https://www.twitter.com/Techno021)
-  - Portfolio (Under Construction): [www.rishabarora.com](https://rishabarora.com)
+  - Portfolio (Under Construction): [www.rishabarora.com](https://rishabarora.com) || [techno029.github.io](https://techno029.github.io)
 - 😄 Pronouns: He/His
 - ⚡ Fun facts:
   - As much as it doesn't seem like it, I'm trying to make animations for my YouTube Channel, that's why asked help in Animating
