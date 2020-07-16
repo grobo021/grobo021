@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about NodeJS
 - 📫 How to reach me: [Email: rishabarora2008@gmail.com](rishabarora2008@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ¯\\_(ツ)_/¯
+- ⚡ Fun fact: ¯\\\_(ツ)_/¯
