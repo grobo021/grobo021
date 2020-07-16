@@ -12,4 +12,5 @@ About Me:
   - YouTube: [Techno029](https://www.youtube.com/channel/UCjo4sZ-G8ExZpGATmUrKKkA)
   - Portfolio (Under Construction): [www.rishabarora.com](https://rishabarora.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ¯\\\_(ツ)_/¯
+- ⚡ Fun facts:
+  - As much as it doesn't seem like it, I'm trying to make animations for my YouTube Channel, thats why asked help in it
