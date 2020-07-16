@@ -2,11 +2,11 @@
 
 About Me:
 
-- 🔭 I’m currently working on ReactJS and NodeJS
+- 🔭 I’m currently working on ReactJS, NodeJS and DialogFlow
 - 🌱 I’m currently learning Python and Machine Learning
 - 👬 I’m looking to collaborate on NodeJS projects
 - 🤔 I’m looking for help with Animation
-- 💬 Ask me about NodeJS
+- 💬 Ask me about NodeJS and anything related
 - 📫 Social Media: 
   - Email: [rishabarora2008@gmail.com](rishabarora2008@gmail.com)
   - YouTube: [Techno029](https://www.youtube.com/channel/UCjo4sZ-G8ExZpGATmUrKKkA)
