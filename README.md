@@ -1,6 +1,6 @@
 ### Hi there, I'm Rishab 👋
 
-Here are some ideas to get you started:
+About Me:
 
 - 🔭 I’m currently working on ReactJS and NodeJS
 - 🌱 I’m currently learning Python and Machine Learning
