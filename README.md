@@ -16,5 +16,6 @@
 
 ### 📘 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrate Google Sheets with Jupyter Notebook](https://medium.com/@techno029/integrate-google-sheets-with-jupyter-notebook-e25a4c349828?source=rss-89a0b052a64f------2)
 - [A fix to the Unhandled Promise Rejection Warning](https://medium.com/@techno029/a-fix-to-the-unhandled-promise-rejection-warning-4fc0598896fe?source=rss-89a0b052a64f------2)
 <!-- BLOG-POST-LIST:END -->
