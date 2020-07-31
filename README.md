@@ -9,7 +9,7 @@
 - ⚡ Fun Fact: I can play drums (sort of)
 
 ### 📫 Social Media: 
-- [Email](./images/email.png): [rishabarora2008@gmail.com](rishabarora2008@gmail.com)
-- [YouTube](./images/youtube.png): [Techno029](https://www.youtube.com/channel/UCjo4sZ-G8ExZpGATmUrKKkA)
-- [Twitter](./images/twitter.png): [@Techno021](https://www.twitter.com/Techno021)
-- [Portfolio (Under Construction)](./images/website.png): [www.rishabarora.com](https://rishabarora.com)
+- Email: [rishabarora2008@gmail.com](rishabarora2008@gmail.com)
+- YouTube: [Techno029](https://www.youtube.com/channel/UCjo4sZ-G8ExZpGATmUrKKkA)
+- Twitter: [@Techno021](https://www.twitter.com/Techno021)
+- Portfolio (Under Construction): [www.rishabarora.com](https://rishabarora.com)
