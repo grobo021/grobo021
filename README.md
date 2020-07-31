@@ -16,4 +16,5 @@
 
 ### 📘 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A fix to the Unhandled Promise Rejection Warning](https://medium.com/@techno029/a-fix-to-the-unhandled-promise-rejection-warning-4fc0598896fe?source=rss-89a0b052a64f------2)
 <!-- BLOG-POST-LIST:END -->
