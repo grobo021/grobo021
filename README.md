@@ -1,4 +1,4 @@
-### Hi there, I'm Rishab - aka [Techno029](https://rishabarora.com) 👋
+### Hi there, I'm Rishab - aka [Techno021](https://rishabarora.com) 👋
 
 ## I'm a Teen, Youtuber, and Developer!
 - 🔭 I’m currently working on ReactJS, NodeJS and DialogFlow
