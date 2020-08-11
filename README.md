@@ -10,7 +10,7 @@
 
 ### 📫 Social Media
 - Email: [rishabarora2008@gmail.com](rishabarora2008@gmail.com)
-- YouTube: [Techno029](https://www.youtube.com/channel/UCjo4sZ-G8ExZpGATmUrKKkA)
+- YouTube: [Techno021](https://www.youtube.com/channel/UCjo4sZ-G8ExZpGATmUrKKkA)
 - Twitter: [@Techno021](https://www.twitter.com/Techno021)
 - Portfolio (Under Construction): [www.rishabarora.com](https://rishabarora.com)
 
@@ -31,4 +31,4 @@
 
 ---
 
-<img align="left" alt="Techno029's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Techno029&show_icons=true&hide_border=true" />
+<img align="left" alt="Techno021's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Techno029&show_icons=true&hide_border=true" />
