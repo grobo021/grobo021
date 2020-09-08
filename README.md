@@ -12,6 +12,7 @@
 - Email: [rishabarora2008@gmail.com](rishabarora2008@gmail.com)
 - YouTube: [Techno021](https://www.youtube.com/channel/UCjo4sZ-G8ExZpGATmUrKKkA)
 - Twitter: [@Techno021](https://www.twitter.com/Techno021)
+- Medium: [@Techno021](https://www.medium.com/@techno021)
 - Portfolio (Under Construction): [www.rishabarora.com](https://rishabarora.com)
 
 ### 📺 Latest Youtube Videos
