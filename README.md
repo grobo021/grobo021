@@ -17,7 +17,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Unlock The Lock | Euphony 2020 | School Code: 42](https://www.youtube.com/watch?v=dIfNRRPLAgU)
+- [Unlock The Lock | Platformer Game | Euphony 2020](https://www.youtube.com/watch?v=dIfNRRPLAgU)
 - [Robo Car Chasing it's Tail](https://www.youtube.com/watch?v=bvrYq5kp4XA)
 - [Using Flame Sensor with Arduino](https://www.youtube.com/watch?v=GgJNJM2oanE)
 - [Controlling Arduino LED using MIT App Inventor](https://www.youtube.com/watch?v=SyAShT8xF_k)
