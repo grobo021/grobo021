@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ReactJS, NodeJS and DialogFlow
 - 🌱 I’m currently learning Python, Machine Learning, and Animating
 - 👬 I’m looking to collaborate on NodeJS projects, specially games
-- 🤔 I’m looking for help with Animation
+- 🤔 I’m looking for help with Photoshop
 - 💬 Ask me about NodeJS and anything related
 - ⚡ Fun Fact: I can play drums (sort of)
 
