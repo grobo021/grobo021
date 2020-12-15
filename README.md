@@ -17,11 +17,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Covid19 Classification | Machine Learning](https://www.youtube.com/watch?v=CRNbISyZLn0)
 - [Crossing 10k on Chrome dino game](https://www.youtube.com/watch?v=U2A3T4Agorc)
 - [Digi crackers | #greendiwali](https://www.youtube.com/watch?v=NJGwT8houbE)
 - [Unlock The Lock | Platformer Game | Euphony 2020](https://www.youtube.com/watch?v=dIfNRRPLAgU)
 - [Robo Car Chasing it's Tail](https://www.youtube.com/watch?v=bvrYq5kp4XA)
-- [Using Flame Sensor with Arduino](https://www.youtube.com/watch?v=GgJNJM2oanE)
 <!-- YOUTUBE:END -->
 
 ### 📘 Latest blog posts
