@@ -1,7 +1,7 @@
 ### Hi there, I'm [Techno021](https://github.com/techno021)
 
 #### To make a long story short, I am-
-- Working on ReactJS, NodeJS and DialogFlow
+- Working on NodeJS, React, Dialogflow and Typescript
 - Learning Python, Machine Learning, and Animating
 - Need help with video editing
 
