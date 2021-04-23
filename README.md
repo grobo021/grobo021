@@ -16,8 +16,6 @@
   - Unity
   - Docker
 
-Btw I'm also trying to figure out the cloud.
-
 #### 📫 Socials
 - Reddit: [u/Techno021](https://www.reddit.com/u/Techno021)
 - Blog: [@Techno021](https://www.medium.com/@techno021)
