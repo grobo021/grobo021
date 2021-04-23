@@ -1,15 +1,25 @@
 ### Hi there, I'm [Techno021](https://github.com/techno021)
 
-#### To make a long story short, I am-
-- Working on NodeJS, React, Dialogflow and Typescript
-- Learning Python, Machine Learning, and Animating
-- Need help with video editing
+#### To make a long story short
+- I know the following programming languages/frameworks
+  - TypeScript/JavaScript
+  - C Sharp
+  - Python
+  - Dialogflow
+  - NodeJS
+  - Unity
+- And I'm trying to figure out the following languages/frameworks
+  - DenoJS
+  - Tensorflow
+  - Rust
+
+Btw I'm also trying to figure out the cloud.
 
 #### 📫 Socials
 - Reddit: [u/Techno021](https://www.reddit.com/u/Techno021)
-- Medium: [@Techno021](https://www.medium.com/@techno021)
+- Blog: [@Techno021](https://www.medium.com/@techno021)
 - Twitter: [@Techno021](https://www.twitter.com/Techno021)
-- Portfolio (Under Construction): [www.rishabarora.com](https://rishabarora.com)
+- Portfolio (Under Construction 🏗️): [www.rishabarora.com](https://rishabarora.com)
 
 ---
 
