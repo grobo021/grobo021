@@ -7,11 +7,12 @@
   - Python
   - Dialogflow
   - NodeJS
-  - Unity
+
 - And I'm trying to figure out the following languages/frameworks
   - DenoJS
   - Tensorflow
   - Rust
+  - Unity
 
 Btw I'm also trying to figure out the cloud.
 
