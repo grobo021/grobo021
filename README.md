@@ -1,18 +1,20 @@
 ### Hi there, I'm [Techno021](https://github.com/techno021)
 
 #### To make a long story short
-- I know the following programming languages/frameworks
+- I know the following programming languages/frameworks/tools
   - TypeScript/JavaScript
   - C Sharp
   - Python
   - Dialogflow
   - NodeJS
+  - Git
 
-- And I'm trying to figure out the following languages/frameworks
+- And I'm trying to figure out the following languages/frameworks/tools
   - DenoJS
   - Tensorflow
   - Rust
   - Unity
+  - Docker
 
 Btw I'm also trying to figure out the cloud.
 
