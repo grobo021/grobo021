@@ -19,7 +19,7 @@
 #### 📫 Socials
 - Reddit: [u/Techno021](https://www.reddit.com/u/Techno021)
 - Blog: [@Techno021](https://www.medium.com/@techno021)
-- Twitter: [@Techno021](https://www.twitter.com/Techno021)
+- Twitter: [@Grobo021](https://www.twitter.com/Grobo021)
 - Portfolio (Under Construction 🏗️): [www.rishabarora.com](https://rishabarora.com)
 
 ---
