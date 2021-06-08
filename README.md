@@ -10,9 +10,7 @@
   - Git
 
 - And I'm trying to figure out the following languages/frameworks/tools
-  - DenoJS
   - Tensorflow
-  - Rust
   - Unity
   - Docker
 
