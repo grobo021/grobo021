@@ -22,6 +22,7 @@
 - Blog: [@Techno021](https://www.medium.com/@techno021)
 - Twitter: [@Grobo021](https://www.twitter.com/Grobo021)
 - Credly: [Rishab Arora](https://www.credly.com/users/rishab-arora.07780d76/badges)
+- NPM: [@Techno021](https://www.npmjs.com/~techno021)
 - Portfolio (Under Construction 🏗️): [www.rishabarora.com](https://rishabarora.com)
 
 ---
