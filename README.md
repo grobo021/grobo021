@@ -1,5 +1,8 @@
 ### Hi there, I'm [Grobo021](https://github.com/grobo021)
-
+<a href="https://github.com/sheersho">
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=grobo021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grobo021&theme=dark"/>
+</a>
 #### To make a long story short
 - I know the following programming languages/frameworks/tools
   - TypeScript/JavaScript
@@ -26,5 +29,3 @@
 - Portfolio (Under Construction 🏗️): [www.rishabarora.com](https://rishabarora.com)
 
 ---
-
-<img align="left" alt="Techno021's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Grobo021&show_icons=true&hide_border=true&theme=dark" />
