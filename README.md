@@ -4,6 +4,8 @@
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grobo021&hide=jupyter%20notebook&theme=dark"/>
 </a>
 
+---
+
 #### To make a long story short
 - I know the following programming languages/frameworks/tools
   - TypeScript/JavaScript
@@ -28,5 +30,3 @@
 - Credly: [Rishab Arora](https://www.credly.com/users/rishab-arora.07780d76/badges)
 - NPM: [@Techno021](https://www.npmjs.com/~techno021)
 - Portfolio (Under Construction 🏗️): [www.rishabarora.com](https://rishabarora.com)
-
----
