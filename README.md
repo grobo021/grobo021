@@ -21,7 +21,7 @@
 - Docker IBM Cogitive Class Certification - Acquired on 28th July 2021 - [Verification](https://courses.cognitiveclass.ai/certificates/90a44e4cdaee4287afad02eebb86d4fe)
 
 #### 📫 Socials
-- Reddit: [u/Techno021](https://www.reddit.com/u/Techno021)
+- Reddit: [u/Grobo021](https://www.reddit.com/u/Grobo021)
 - Blog: [@Techno021](https://www.medium.com/@techno021)
 - Credly: [Rishab Arora](https://www.credly.com/users/rishab-arora.07780d76/badges)
 - NPM: [@Techno021](https://www.npmjs.com/~techno021)
