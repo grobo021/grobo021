@@ -17,7 +17,7 @@
   - Docker
 
 #### Certifications
-- AWS Certified Cloud Practioner - Acquired on 9th June 2021 - [Verification](https://www.credly.com/earner/earned/badge/4fcdbf97-cd66-4e51-86bc-ad02fa650cbb)
+- AWS Certified Cloud Practioner - Acquired on 9th June 2021 - Recertified on 15th May 2024 - [Verification](https://www.credly.com/earner/earned/badge/4fcdbf97-cd66-4e51-86bc-ad02fa650cbb)
 - Docker IBM Cogitive Class Certification - Acquired on 28th July 2021 - [Verification](https://courses.cognitiveclass.ai/certificates/90a44e4cdaee4287afad02eebb86d4fe)
 
 #### 📫 Socials
