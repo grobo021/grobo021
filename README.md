@@ -19,10 +19,3 @@
 #### Certifications
 - AWS Certified Cloud Practioner - Acquired on 9th June 2021 - Recertified on 15th May 2024 - [Verification](https://www.credly.com/earner/earned/badge/4fcdbf97-cd66-4e51-86bc-ad02fa650cbb)
 - Docker IBM Cogitive Class Certification - Acquired on 28th July 2021 - [Verification](https://courses.cognitiveclass.ai/certificates/90a44e4cdaee4287afad02eebb86d4fe)
-
-#### 📫 Socials
-- Reddit: [u/Grobo021](https://www.reddit.com/u/Grobo021)
-- Blog: [@Techno021](https://www.medium.com/@techno021)
-- Credly: [Rishab Arora](https://www.credly.com/users/rishab-arora.07780d76/badges)
-- NPM: [@Techno021](https://www.npmjs.com/~techno021)
-- Portfolio (Under Construction 🏗️): [www.rishabarora.com](https://rishabarora.com)
